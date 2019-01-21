@@ -88,3 +88,4 @@ yarn.lock
 .dynamodb/
 
 # End of https://www.gitignore.io/api/node
+comunication-with-props/package-lock.json
